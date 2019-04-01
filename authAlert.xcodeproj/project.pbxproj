@@ -12,6 +12,7 @@
 		EE9466CC224F860A00240DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE9466CB224F860A00240DF7 /* Assets.xcassets */; };
 		EE9466CF224F860A00240DF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE9466CD224F860A00240DF7 /* Main.storyboard */; };
 		EE9466D2224F860A00240DF7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9466D1224F860A00240DF7 /* main.m */; };
+		EE9466DD224F8AE100240DF7 /* ARXAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9466DC224F8AE100240DF7 /* ARXAlertView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,8 @@
 		EE9466D0224F860A00240DF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE9466D1224F860A00240DF7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EE9466D3224F860A00240DF7 /* authAlert.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = authAlert.entitlements; sourceTree = "<group>"; };
+		EE9466DB224F8AE100240DF7 /* ARXAlertView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ARXAlertView.h; sourceTree = "<group>"; };
+		EE9466DC224F8AE100240DF7 /* ARXAlertView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARXAlertView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,8 @@
 				EE9466C6224F860800240DF7 /* AppDelegate.m */,
 				EE9466C8224F860800240DF7 /* ViewController.h */,
 				EE9466C9224F860800240DF7 /* ViewController.m */,
+				EE9466DB224F8AE100240DF7 /* ARXAlertView.h */,
+				EE9466DC224F8AE100240DF7 /* ARXAlertView.m */,
 				EE9466CB224F860A00240DF7 /* Assets.xcassets */,
 				EE9466CD224F860A00240DF7 /* Main.storyboard */,
 				EE9466D0224F860A00240DF7 /* Info.plist */,
@@ -142,6 +147,7 @@
 				EE9466CA224F860800240DF7 /* ViewController.m in Sources */,
 				EE9466D2224F860A00240DF7 /* main.m in Sources */,
 				EE9466C7224F860800240DF7 /* AppDelegate.m in Sources */,
+				EE9466DD224F8AE100240DF7 /* ARXAlertView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
